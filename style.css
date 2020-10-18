@@ -1,0 +1,47 @@
+body,
+html {
+	width: 100%;
+  	height: 100%;
+  	font-family: 'Montserrat', sans-serif;
+	background: url(Smanssu.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.btn{
+	text-transform: uppercase;
+}
+
+.btn-xl{
+	font-weight: 700;
+	border-radius: 300px;
+}
+
+h1{
+	text-shadow: 2px 5px grey;
+	color: black;
+	-webkit-text-stroke: 2px white;
+}
+.text-uppercase{
+	font-size: 7rem
+}
+
+h2{
+	color: black;
+	-webkit-text-stroke: 0.1px white;
+	font-weight: 500px
+	font-family: arial
+
+}
+
+
+hr{
+	border: 0;
+  	width: 100px;
+  	color: black;
+  	background-color: white;
+  	height: 60px;
+}
+
